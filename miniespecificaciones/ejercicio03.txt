@@ -2,14 +2,14 @@
 2.  funcion principal()
 3.      variable, i[0-n]
 4.      variable2, i[0-n]
-6.      variable <-- 10 
-7.      variable2 <-- 20 
-8.      obtenerSuma(variable, variable2)  //30
-10.  fin funcion principal 
-11. // se define un método o función
-12.  funcion obtenerSuma(a, i; b, i) 
-13.     p, i[0-n]
-14.     p <-- a + b
+5.      variable <-- 10 
+6.      variable2 <-- 20 
+7.      obtenerSuma(variable, variable2)  //30
+8.  fin funcion principal 
+9. // se define un método o función
+10.  funcion obtenerSuma(a, i; b, i) 
+11.     p, i[0-n]
+12.     p <-- a + b
 13.     Escribir p
 14.  fin funcion obtenerSuma
 15. Fin
